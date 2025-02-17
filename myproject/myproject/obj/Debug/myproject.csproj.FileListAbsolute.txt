@@ -1,0 +1,12 @@
+C:\Users\mrosr\source\repos\myproject\myproject\bin\Debug\myproject.exe.config
+C:\Users\mrosr\source\repos\myproject\myproject\bin\Debug\myproject.exe
+C:\Users\mrosr\source\repos\myproject\myproject\bin\Debug\myproject.pdb
+C:\Users\mrosr\source\repos\myproject\myproject\obj\Debug\myproject.csproj.AssemblyReference.cache
+C:\Users\mrosr\source\repos\myproject\myproject\obj\Debug\myproject.Dashboard.resources
+C:\Users\mrosr\source\repos\myproject\myproject\obj\Debug\myproject.Properties.Resources.resources
+C:\Users\mrosr\source\repos\myproject\myproject\obj\Debug\myproject.Travel_Details.resources
+C:\Users\mrosr\source\repos\myproject\myproject\obj\Debug\myproject.Travel_History.resources
+C:\Users\mrosr\source\repos\myproject\myproject\obj\Debug\myproject.csproj.GenerateResource.cache
+C:\Users\mrosr\source\repos\myproject\myproject\obj\Debug\myproject.csproj.CoreCompileInputs.cache
+C:\Users\mrosr\source\repos\myproject\myproject\obj\Debug\myproject.exe
+C:\Users\mrosr\source\repos\myproject\myproject\obj\Debug\myproject.pdb
